@@ -17,7 +17,8 @@ This repository provides a comprehensive framework for evaluating Large Language
 
 ## File Structure
 
-\```bash
+<pre>
+```bash
 .
 ├── 01_LLM_Analysis
 │   └── (Correlation analysis files)
@@ -32,7 +33,8 @@ This repository provides a comprehensive framework for evaluating Large Language
 ├── 99_LLM_Profiler_35_41
 │   └── (Helper files for LLMs 35-41)
 └── README.md
-\```
+```
+</pre>
 
 ## Usage
 
