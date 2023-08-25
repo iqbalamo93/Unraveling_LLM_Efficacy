@@ -44,10 +44,10 @@ This repository provides a comprehensive framework for evaluating Large Language
 
 3. **03_Pair_diff**: Inside you'll find the pairwise comparative analysis of various LLMs.
 
-4. **99_LLM_Comparisons**, **99_LLM_Profiler_14_34**, **99_LLM_Profiler_35_41**: These are helper folders that contain utilities for downloading weight matrices. The last numbers signify the model numbers.
+4. **99_LLM_Comparisons**, **99_LLM_Profiler_14_34**, **99_LLM_Profiler_35_41**: These are helper folders that contain utilities for downloading weight matrices. The last two numbers signify the model numbers.
 
-5. **99_LLM_Profiler_35_41**: This folder consolidates all the above-mentioned helper files.
-
+5. **99_Parameters_Results**: This folder consolidates all the above-mentioned helper files.
+   
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
